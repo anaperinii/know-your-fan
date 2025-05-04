@@ -5,7 +5,7 @@
 
 Este Python Notebook implementa uma solução para coletar e analisar informações sobre o seu perfil como fã de esports. Inspirado na estratégia "Know Your Fan" utilizada por clubes e organizações, este projeto visa agregar dados de diversas fontes (simuladas neste projeto) para criar um panorama do seu engajamento, preferências e comportamento no ecossistema dos esports.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anaperinii/know-your-fan/knowyourfan.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anaperinii/know-your-fan/blob/main/knowyourfan.ipynb)
 
 ## ⚙️ Funcionalidades
 
